@@ -4,7 +4,7 @@ By Saravanan S
 
 Here's the Live Deployed Website ![Project 12](https://img.shields.io/badge/Project-12-green)
 
-## [Link to the Project 12](https://ineuron-project-11.netlify.app/) 
+## [Link to the Project 12](https://ineuron-project-12.netlify.app/) 
 
 ![Completed Website](./12.png)
 
